@@ -1,4 +1,1 @@
-the git command used is "git add ."
-"git commit -m how to be up to date in git"
-git push
-
+the command is "git pull"
